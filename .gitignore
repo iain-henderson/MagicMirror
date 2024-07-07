@@ -60,6 +60,10 @@ Temporary Items
 # Ignore all modules except the default modules.
 /modules/**
 !/modules/default
+!/modules/MMM-GoogleCalendar
+!/modules/MMM-GoogleCalendar/**
+!/modules/MMM-MonthlyCalendar
+!/modules/MMM-MonthlyCalendar/**
 !/modules/default/**
 !/modules/README.md**
 
@@ -70,6 +74,7 @@ Temporary Items
 
 # Ignore users config file but keep the sample.
 /config/*
+!/config/config.js
 !/config/config.js.sample
 
 # Vim

@@ -1,0 +1,6 @@
+[submodule "modules/MMM-GoogleCalendar"]
+	path = modules/MMM-GoogleCalendar
+	url = git@github.com:iain-henderson/MMM-GoogleCalendar.git
+[submodule "modules/MMM-MonthlyCalendar"]
+	path = modules/MMM-MonthlyCalendar
+	url = git@github.com:iain-henderson/MMM-MonthlyCalendar.git
